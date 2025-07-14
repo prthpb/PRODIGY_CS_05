@@ -1,0 +1,9 @@
+Packages Used:
+
+scapy - A comprehensive Python library for network packet capture, decoding, and analysis across multiple protocol layers.
+
+keyboard - A cross-platform Python module to detect and respond to keyboard events, such as key presses.
+
+datetime - A standard Python library used to work with date and time, useful for timestamping each packet.
+
+wrpcap (from scapy.utils) - A utility to save captured network packets in .pcap format for use with tools like Wireshark.
